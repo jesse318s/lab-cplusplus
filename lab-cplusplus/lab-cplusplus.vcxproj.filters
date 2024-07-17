@@ -18,5 +18,13 @@
     <ClCompile Include="lab-cplusplus.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Heap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Heap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
