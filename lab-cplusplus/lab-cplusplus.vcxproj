@@ -127,11 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Heap.cpp" />
+    <ClCompile Include="heap.cpp" />
     <ClCompile Include="lab-cplusplus.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Heap.h" />
+    <ClInclude Include="heap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
